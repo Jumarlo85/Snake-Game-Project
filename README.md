@@ -7,5 +7,9 @@ game loop created in game.js to update the game. Snake.js and Food.js created as
 
 Each fuction created in the javascript must export from js and import to the game.js as it is the base.
 
+create function to
+
+# Snake JS
+create export SNAKE_SPEEND movement and snake body for size with array of x: and y: than import to game.
 
 
