@@ -14,4 +14,4 @@ create export SNAKE_SPEEND movement and snake body for size with array of x: and
 
 
 # Food.js
-pretty coiped exort functiond from snake, but ther changing the elements to food and chagaing the fromn segment x: and y: to food x: and y:. When running the game the snake would run undee the food, I had to create a const Expanion_rate = 1 so that the snbake would grow one size.
+pretty coiped exort functiond from snake, but ther changing the elements to food and chagaing the fromn segment x: and y: to food x: and y:. When running the game the snake would run undee the food, I had to create a const Expanion_rate = 1 so that the snake would grow one size. Also create a expand snake function with a newSegament in Snake.js
