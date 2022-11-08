@@ -13,3 +13,5 @@ create function to
 create export SNAKE_SPEEND movement and snake body for size with array of x: and y: than import to game. Create addListner with 'keydown' and array inputDirection for snake movement. when  entering the lastInputDirection the snake would not move with with thr arrow keys, I was able tio fix thr issue duee to the brace or brakets missing from the array.
 
 
+# Food.js
+pretty coiped exort functiond from snake, but ther changing the elements to food and chagaing the fromn segment x: and y: to food x: and y:. When running the game the snake would run undee the food, I had to create a const Expanion_rate = 1 so that the snbake would grow one size.
