@@ -10,6 +10,6 @@ Each fuction created in the javascript must export from js and import to the gam
 create function to
 
 # Snake JS and Input.js
-create export SNAKE_SPEEND movement and snake body for size with array of x: and y: than import to game. Create addListner with 'keydown' and array inputDirection for snake movement. when  entering the lastInputDirection the snake would not  move with with thr arrow keys.
+create export SNAKE_SPEEND movement and snake body for size with array of x: and y: than import to game. Create addListner with 'keydown' and array inputDirection for snake movement. when  entering the lastInputDirection the snake would not move with with thr arrow keys, I was able tio fix thr issue duee to the brace or brakets missing from the array.
 
 
