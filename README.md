@@ -1,5 +1,5 @@
 # Snake-Game-Project
-I did use  sources from YouTube as I am more of a visual learner and I find it hard to keep up when reading code. 
+I did use sources from YouTube as I am more of a visual learner and I find it hard to keep up when reading code, with coding along i was able to keep up and understand what I was doing. 
 
 Create html tag with div id 'game board', body created with height and body 100 vh and vx, game borad created with 100vmin. In order to create the snake, must create a template row and columns wioth a repeart of 21, 1fr and for the food also.
 # Game JS
@@ -19,4 +19,4 @@ create export SNAKE_SPEEND movement and snake body for size with array of x: and
 pretty coiped exort functiond from snake, but ther changing the elements to food and chagaing the fromn segment x: and y: to food x: and y:. When running the game the snake would run undee the food, I had to create a const Expanion_rate = 1 so that the snake would grow one size. Also create a expand snake function with a newSegament in Snake.js
 
 # grid.js 
-this will control the ndake from running off the screen with out losing or biting
+this will control the snake from running off the screen without losing the game or biting itself without losing the game.
